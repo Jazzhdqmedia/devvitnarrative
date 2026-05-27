@@ -1,0 +1,6 @@
+{
+  "name": "Narrative Firewall",
+  "description": "AI-native moderation firewall and narrative intelligence console for Reddit, deploying explainable Social Firewalls to protect subreddits from coordination, manipulation, and toxicity spikes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
